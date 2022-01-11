@@ -1,0 +1,7 @@
+input {
+  font-size: 22px;
+  &::placeholder {
+    font-size: 18px;
+    padding-left: 20px;
+  }
+}
